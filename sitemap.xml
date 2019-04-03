@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/04/01/%E5%90%8D%E8%AF%8D%E6%9D%82%E8%AE%B0/</loc>
+    
+    <lastmod>2019-04-03T15:06:28.891Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/03/28/hello-world/</loc>
+    
+    <lastmod>2019-04-03T14:44:09.997Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/04/01/DQN/</loc>
+    
+    <lastmod>2019-04-03T04:05:14.040Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/04/03/mysql8%E8%A7%A3%E5%8E%8B%E7%89%88%E5%AE%89%E8%A3%85/</loc>
     
-    <lastmod>2019-04-03T03:59:11.406Z</lastmod>
+    <lastmod>2019-04-03T04:00:41.648Z</lastmod>
     
   </url>
   
@@ -16,30 +37,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/04/01/DQN/</loc>
-    
-    <lastmod>2019-04-01T14:28:04.265Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/04/01/%E5%90%8D%E8%AF%8D%E6%9D%82%E8%AE%B0/</loc>
-    
-    <lastmod>2019-04-01T08:30:36.163Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2019/03/29/ML%E5%9F%BA%E7%A1%80/</loc>
     
     <lastmod>2019-03-30T05:46:04.707Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/03/28/hello-world/</loc>
-    
-    <lastmod>2019-03-28T08:36:30.232Z</lastmod>
     
   </url>
   
